@@ -14,11 +14,27 @@
 
 ![alt text](MDIMG/one.jpg)
 <br/>
+
 ![alt text](MDIMG/two.jpg)
 <br/>
+
 ![alt text](MDIMG/three.jpg)
 
 **4. Installation (preparation of database remotely using workbench or phpmyadmin)**
+
+* Download and install XAMPP on your computer.
+
+* Start the XAMPP Control Panel and Start the Apache and MySQL modules.
+
+* Open a web browser and navigate to http://localhost/phpmyadmin/.
+
+* Create a new database in phpMyAdmin.
+
+* Import the .sql file into the new database.
+
+* Configure the database connection in your web application.
+
+* Test the connection and functionality of your web application.
 
 
 
@@ -26,12 +42,16 @@
 
 **5. Authors (include photos)** 
 <br/> <br/>
+
 # Randel Vitero
 ![alt text](MDIMG/randel.jpg)
+
 <br/><br/>
 # Liza May Aton
+
 ![alt text](MDIMG/liza.jpg)
 <br/><br/>
+
 # John Mark Benedicto
 ![alt text](MDIMG/John.jpg)
 
