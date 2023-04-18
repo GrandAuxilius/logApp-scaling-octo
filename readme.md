@@ -47,9 +47,10 @@
 ![alt text](MDIMG/randel.jpg)
 
 <br/><br/>
-# Liza May Aton
 
-![alt text](MDIMG/liza.jpg)
+# Liza May Aton
+![alt text](MDIMG/Liza.jpg)
+
 <br/><br/>
 
 # John Mark Benedicto
