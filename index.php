@@ -46,7 +46,7 @@
     </div>
     <div class="form-group form-check">
       <label class="form-check-label">
-        <input class="form-check-input" type="checkbox" name="remember" required> I agree on blabla.
+        <input class="form-check-input" type="checkbox" name="remember" required> I agree on this term.
         <div class="valid-feedback">Valid.</div>
         <div class="invalid-feedback">Check this checkbox to continue.</div>
       </label>
